@@ -14,11 +14,11 @@ enum Nivel {
 }
 
 
-export type ResponseType = {
-  message: string,
-  code: number,
-  dev?: DevType,
-  devs?: DevType[],
+export type ResponseApiType = {
+  message: string
+  code: number
+  dev?: DevType
+  devs?: DevType[]
 }
 
 
