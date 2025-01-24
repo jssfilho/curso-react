@@ -6,6 +6,8 @@ Este repositório contém a configuração inicial de um projeto React utilizand
 Certifique-se de ter instalado previamente:
 - [Node.js](https://nodejs.org/) (versão recomendada LTS)
 - npm (gerenciador de pacotes do Node.js)
+Caso precise manter versões diferentes:
+- [NVM](https://github.com/coreybutler/nvm-windows/releases)
 
 ## Instalação
 
