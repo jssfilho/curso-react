@@ -16,7 +16,7 @@ Siga os passos abaixo para configurar o ambiente:
 1. Crie um novo projeto utilizando o Vite com React e TypeScript:
 
    ```sh
-   npx create vite@latest [nome-do-seu-projeto] --template react-ts
+   npm create vite@latest [nome-do-seu-projeto] --template react-ts
    cd [nome-do-seu-projeto]
    ```
 
